@@ -1,6 +1,4 @@
-//{{NO_DEPENDENCIES}}
-// Archivo de inclusión generado de Microsoft Visual C++.
-// Usado por PPA Calculator.rc
+
 
 #define IDS_APP_TITLE			103
 
@@ -16,8 +14,7 @@
 #ifndef IDC_STATIC
 #define IDC_STATIC				-1
 #endif
-// Valores predeterminados siguientes para nuevos objetos
-//
+
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
 

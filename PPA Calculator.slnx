@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PPA Calculator/PPA Calculator.vcxproj" Id="be545e18-df57-4b06-9054-5897a2299060" />
+</Solution>
